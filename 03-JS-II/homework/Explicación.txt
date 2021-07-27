@@ -1,0 +1,13 @@
+For
+Es un bucle que permite realizar una tarea de forma repetida hasta que una condición especificada resulte false. 
+Primero se declara una variable, la cual es la que iniciará el bucle.
+Luego una expresión condicional, en base a la cual el bucle se repetirá hasta que la misma resulte false.
+Por último va un factor de incremento, el cual establece en qué medida se va aumentando el valor de la variable.
+&&
+Operador AND. Devuelve true si ambas expresiones son verdaderas.
+Si una o ambas son falsas, devuelve false.
+||
+Operador OR. Devuelve true si una o ambas expresiones son verdaderas.
+Devuelve false si ambas lo son.
+!
+Operador NOT. Devuelve el valor booleano opuesto de lo que se evalúa.

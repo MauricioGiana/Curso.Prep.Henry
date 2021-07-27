@@ -1,0 +1,15 @@
+Variables:
+Se trata de una forma de almacenar algún dato para usar en otro momento.
+Podría compararse con una caja para guardar algo.
+Se establece un cierto tipo de dato que puedo ser invocado posteriormente con sólo mencionar el nombre de la variable.
+Se usa la palabra clave var. Aunque tambíen pueden usarse otros tipos de variables como let o const.
+Strings:
+Son cadenas de caracteres, bloques de texto. Van siempre entre comillas.
+Funciones:
+Son herramientas que permiten realizar determinadas acciones que nosotros establecemos. 
+Es una forma de acelerar procesos, de evitar repetir códigos innecesariamente.
+Declaraciones if
+Es un método de control de flujo. Al usar el comando if, se compara ciertos datos.
+Significa que, si se cumple cierta condición, se arrojará cierto resultado. Si no se cumple, se arrojará otro resultado.
+Valores booleanos
+Se refiere a especificar si un hecho es verdadero (true) o falso (false). Es decir si se cumple o no cierta condición.
