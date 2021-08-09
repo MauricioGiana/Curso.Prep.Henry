@@ -1,0 +1,17 @@
+Objeto:
+Es una entidad independiente la cual tiene propiedades que definen sus características.
+Es una colección de propiedades, las cuales van entre {}. 
+Propiedad:
+Es una asociación entre una clave y un valor (key: value).
+Método:
+Es una objeto de referencia a una función.
+Se trata de una FUNCIÓN, la cual es PROPIEDAD de un OBJETO.
+Bucle for...in:
+Es un bucle que sirve para iterar sobre cada propiedad de un objeto.
+Notación de punto:
+Se accede al valor escribiendo el nombre del objeto, un punto, y el nombre de la clave.
+Ejemplo: objeto.clave1
+Notación de corchetes:
+Se accede al valor escribiendo el nombre del objeto seguido de la clave entre comillas y entre corchetes.
+Ejemplo: objeto["clave1"]
+
