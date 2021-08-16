@@ -1,0 +1,6 @@
+Prototype:
+Es una propiedad especial que nos permite establecer ciertos métodos una sola vez y dar acceso a éstos
+a cada objeto de la clase.
+Constructors (de clases):
+Son un tipo especial de objetos los cuales sirven como una plantilla para crear muchos objetos que comparten
+algunos de los mismos métodos y propiedades.
