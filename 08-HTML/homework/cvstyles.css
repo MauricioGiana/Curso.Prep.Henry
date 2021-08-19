@@ -5,22 +5,51 @@ img {
     margin: 10px;
 }
 h1 {
-    position: relative;
-    top: 110px;
-    left: 20px;
     font-size: 34px;;
 }
-#datos {
-    position: relative;
-    left: 420px;
-    bottom: 30px;
+#encabezado {
+    display: flex;
+    justify-content: space-between;
+    background-color: gainsboro;
 }
 h3 {
-    font-size: 26px;;
+    font-size: 28px;;
+    border-bottom: black solid 1px;
 }
 .cuerpo {
     margin-left: 60px;
 }
-.porque {
-    max-width: 700px;;
+body {
+    max-width: 900px;;
+}
+#nombre {
+    font-size: 34px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: flex-end;
+    bottom: 20px;
+    left: -30px;
+}
+#giana {
+    font-size: 40px;
+}
+#datos {
+    background-color: thistle;
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#spandatos {
+    font-size: 26px;
+    font-weight: bold;
+}
+ul {
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
 }
